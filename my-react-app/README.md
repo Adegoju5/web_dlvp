@@ -35,7 +35,7 @@ You may also see any lint errors in the console.
 
 Install react-router-dom to enable BrowserRouter
 
-npm install react-router-dom
+### 'npm install react-router-dom'
 
 ### `npm test`
 
