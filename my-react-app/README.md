@@ -1,3 +1,22 @@
+# My React App
+
+Welcome to My React App! This is a simple template for kickstarting your React.js project.
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your-username/my-react-app.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
